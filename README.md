@@ -1,18 +1,22 @@
 # verilog-learning_journey
 
-My Verilog Learning Journey - From basic gates (AND, OR, NOT) to advanced projects.
+My Verilog Learning Journey - From basic gates (AND, OR, NOT) to advanced projects. Daily practice of Verilog HDL codes.
 
-## ✅ Day 1: AND Gate
-**Aim:** Design AND gate in Verilog
+## Day 1 - Progress
 
-**Code File:** `and_gate.v`
+### 1. AND Gate
+- **Logic:** Y = A & B
+- **Files:** `and_gate.v`, `and_gate_tb.v`
+- **Status:** ✅ Done & Simulated on EDA Playground
 
-**Truth Table:**
-| A | B | Y = A.B |
-|---|---|---|
-| 0 | 0 | 0 |
-| 0 | 1 | 0 |
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
+### 2. OR Gate  
+- **Logic:** Y = A | B
+- **Files:** `or_gate.v`, `or_gate_tb.v`
+- **Status:** ✅ Done & Simulated on EDA Playground
 
-**Tool Used:** EDA Playground / Vivado
+## Tools Used
+- EDA Playground (Icarus Verilog)
+- GitHub for version control
+
+## Next Target
+- NOT Gate, XOR Gate, Half Adder
