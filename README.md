@@ -1,22 +1,32 @@
-# verilog-learning_journey
+# Verilog Learning Journey 🚀
 
-My Verilog Learning Journey - From basic gates (AND, OR, NOT) to advanced projects. Daily practice of Verilog HDL codes.
+Ye repo mere Verilog seekhne ka safar hai. Basic Logic Gates se shuru kiya hai.
 
-## Day 1 - Progress
+### ✅ Completed Gates
 
-### 1. AND Gate
+#### 1. AND Gate
 - **Logic:** Y = A & B
-- **Files:** `and_gate.v`, `and_gate_tb.v`
-- **Status:** ✅ Done & Simulated on EDA Playground
+- **Output:** Dono 1 tabhi 1
+- Files: `and_gate.v`, `and_gate_tb.v`
 
-### 2. OR Gate  
+#### 2. OR Gate
 - **Logic:** Y = A | B
-- **Files:** `or_gate.v`, `or_gate_tb.v`
-- **Status:** ✅ Done & Simulated on EDA Playground
+- **Output:** Koi bhi 1 tabhi 1
+- Files: `or_gate.v`, `or_gate_tb.v`
 
-## Tools Used
-- EDA Playground (Icarus Verilog)
-- GitHub for version control
+#### 3. NOT Gate (NEW!)
+- **Logic:** Y = ~A
+- **Output:** Ulta kar dega - 0 ka 1, 1 ka 0
+- Files: `not_gate.v`, `not_gate_tb.v`
 
-## Next Target
-- NOT Gate, XOR Gate, Half Adder
+### 🛠️ Tools Used
+- EDA Playground for Simulation
+- GitHub for Code Storage
+
+### 🎯 Next Target
+- XOR Gate
+- NAND / NOR Gate
+- Half Adder
+
+---
+**Learning in progress... More gates coming soon!**
